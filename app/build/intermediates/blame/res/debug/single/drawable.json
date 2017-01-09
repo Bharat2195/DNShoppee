@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\usedpin.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\usedpin.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pin_transfer.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\pin_transfer.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fund_transfer.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\fund_transfer.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pin_purchase.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\pin_purchase.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pinreport.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\pinreport.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\topup_wallet_to_topup_wallet_transfer.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\topup_wallet_to_topup_wallet_transfer.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittextstyle.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\edittextstyle.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ewallet_to_ewallet_fund_transfer.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\ewallet_to_ewallet_fund_transfer.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\personal.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\personal.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg1.9.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\bg1.9.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\report.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\report.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editprofile.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\editprofile.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\changetpass.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\changetpass.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fail.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\fail.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_ticket.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\close_ticket.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dts_recharge.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\dts_recharge.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\special_recharge.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\special_recharge.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mydownline.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\mydownline.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mobile_recharge.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\mobile_recharge.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recharge.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\recharge.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\prepaid.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\prepaid.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\post_paid.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\post_paid.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\data_card.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\data_card.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pin.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\pin.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\landline.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\landline.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\accountstatement.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\accountstatement.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e_pocket_summary.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\e_pocket_summary.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dth.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\dth.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pocket_balance.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\pocket_balance.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\topup_wallet_request.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\topup_wallet_request.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\changepass.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\changepass.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\raise_ticket.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\raise_ticket.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\topup_wallet_summary.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\topup_wallet_summary.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unusedpin.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\unusedpin.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\current_ticket.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\current_ticket.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonstyle.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\buttonstyle.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recharge_history.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\recharge_history.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ewallet_to_topup_wallet_fund_transfer.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\ewallet_to_topup_wallet_fund_transfer.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\topup_balance.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\topup_balance.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\data_recharge.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\data_recharge.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\success.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\success.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\request.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\request.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fund.png",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\drawable\\fund.png"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    }
+]

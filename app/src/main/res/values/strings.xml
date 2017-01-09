@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DNShoppee</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Log out</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="userid">User ID</string>
+    <string name="password">Password</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="version">version : 3.0</string>
+
+    <color name="Pink">#FFBF00</color>
+
+    <string-array name="DataCard">
+        <item>Aircel</item>
+        <item>Airtel</item>
+        <item>AirtelMoney</item>
+        <item>BSNL</item>
+        <item>Docomo</item>
+        <item>Idea</item>
+        <item>LOOP</item>
+        <item>MGASBP</item>
+        <item>MTNL</item>
+        <item>MTS</item>
+        <item>Reliance</item>
+        <item>TATABP</item>
+        <item>TataIndicome</item>
+        <item>TikonaBP</item>
+        <item>Uninor</item>
+        <item>Videocon</item>
+        <item>Vodafone</item>
+    </string-array>
+    <string-array name="Plan_type">
+        <item>Gold</item>
+        <item>Platinum</item>
+        <item>Silver</item>
+    </string-array>
+    <string-array name="DTH">
+        <item>AirtelDTH</item>
+        <item>DishTV</item>
+        <item>RelianceBigTV</item>
+        <item>SunDirect</item>
+        <item>TataSky</item>
+        <item>VideoconD2H</item>
+    </string-array>
+    <string-array name="PostPaid">
+        <item>Airtel</item>
+        <item>BSNL</item>
+        <item>Docomo</item>
+        <item>Idea</item>
+        <item>Vodafone</item>
+    </string-array>
+    <string-array name="Prepaid">
+        <item>Aircel</item>
+        <item>Airtel</item>
+        <item>AirtelMoney</item>
+        <item>BSNL</item>
+        <item>Docomo</item>
+        <item>Idea</item>
+        <item>LOOP</item>
+        <item>MGASBP</item>
+        <item>MTNL</item>
+        <item>MTS</item>
+        <item>Reliance</item>
+        <item>TATABP</item>
+        <item>TataIndicome</item>
+        <item>TikonaBP</item>
+        <item>Uninor</item>
+        <item>Videocon</item>
+        <item>Vodafone</item>
+    </string-array>
+    <string-array name="Special_Recharge">
+        <item>BSNL</item>
+        <item>Docomo</item>
+        <item>Uninor</item>
+        <item>Videocon</item>
+    </string-array>
+    <string-array name="TicketType">
+        <item>LoginIssue</item>
+        <item>JoiningIssue</item>
+        <item>PayoutIssue</item>
+        <item>AdministratorIssue</item>
+    </string-array>
+    <string-array name="PackageName">
+        <item>Joining Package</item>
+    </string-array>
+    <string-array name="recharge_report">
+        <item value="Aircel">Aircel</item>
+        <item>Airtel</item>
+        <item>AirtelDTH</item>
+        <item>AirtelMoney</item>
+        <item>BSNL</item>
+        <item>DishTV</item>
+        <item>Docomo</item>
+        <item>Idea</item>
+        <item>LOOP</item>
+        <item>MGASBP</item>
+        <item>MTNL</item>
+        <item>MTS</item>
+        <item>Reliance</item>
+        <item>RelianceBigTV</item>
+        <item>SunDirect</item>
+        <item>TATABP</item>
+        <item>TataIndicome</item>
+        <item>TataSky</item>
+        <item>TikonaBP</item>
+        <item>Uninor</item>
+        <item>Videocon</item>
+        <item>VideoconD2H</item>
+        <item>Vodafone</item>
+    </string-array>
+
+    <string name="title_activity_silver_income_report">Silver Income</string>
+    <string name="title_activity_platinum_income_report">Platinum Report</string>
+    <string name="title_activity_level_income">Level Income</string>
+    <string name="title_activity_acount_statement">Account Statement</string>
+    <string name="title_activity_current_ticket">Current Ticket</string>
+    <string name="title_activity_raise_ticket">Raise Ticket</string>
+    <string name="title_activity_mydownline_total">Mydownline</string>
+    <string name="title_activity_pin_report">Pin report</string>
+    <string name="title_activity_silver_matching_sales_bonus">Silver Bonus</string>
+    <string name="title_activity_platinum_matching_sales_bonus">Platinum bonus</string>
+    <string name="title_activity_unused_pin">Unused pin</string>
+    <string name="title_activity_used_pin">Used pin</string>
+    <string name="title_activity_close_query">Close Query</string>
+    <string name="title_activity_edit_profile">Edit Profile</string>
+    <string name="title_activity_recharge_report">Recharge Report</string>
+    <string name="title_activity_aboutus">About us</string>
+    <string name="title_activity_registration">Register</string>
+    <string name="title_activity_fund_transfer">Fund Transfer</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_fund">Fund</string>
+    <string name="title_activity_recharge_home">RechargeHome</string>
+    <string name="title_activity_pin_menu">PinMenu</string>
+    <string name="title_activity_personal">Personal</string>
+    <string name="title_activity_ticket_menu">TicketMenu</string>
+    <string name="title_activity_report">Report</string>
+    <string name="title_activity_request">Request</string>
+    <string name="title_activity_ewallet_ttwallet">EwalletTTwallet</string>
+    <string name="title_activity_pin_purchase">PinPurchase</string>
+    <string name="title_activity_pin_transfer">PinTransfer</string>
+    <string name="title_activity_ewallet_fund_request">EwalletFundRequest</string>
+    <string name="title_activity_ewallet_report">EwalletReport</string>
+    <string name="title_activity_topupwallet_report">TopupwalletReport</string>
+    <string name="title_activity_forgot_password">ForgotPassword</string>
+
+</resources>

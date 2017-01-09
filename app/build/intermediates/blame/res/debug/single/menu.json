@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pin_transfer.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\menu\\pin_transfer.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ticket_menu.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\menu\\ticket_menu.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\report.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\menu\\report.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\personal.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\menu\\personal.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ewallet_ttwallet.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\menu\\ewallet_ttwallet.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fund.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\menu\\fund.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\topupwallet_report.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\menu\\topupwallet_report.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ewallet_fund_request.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\menu\\ewallet_fund_request.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\recharge_home.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\menu\\recharge_home.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\request.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\menu\\request.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\forgot_password.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\menu\\forgot_password.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ewallet_report.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\menu\\ewallet_report.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pin_menu.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\menu\\pin_menu.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\DNShoppee1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pin_purchase.xml",
+        "source": "E:\\Android Project\\DNShoppee1\\app\\src\\main\\res\\menu\\pin_purchase.xml"
+    }
+]

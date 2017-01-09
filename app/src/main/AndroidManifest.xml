@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dnshoppee"
+    android:versionCode="30000" android:versionName="@string/version" >"
+
+    <uses-sdk
+        android:minSdkVersion="13"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppBaseTheme" >
+        <activity
+            android:name=".Login"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Light.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver android:name=".IncomingSms" >
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ChangePass"
+            android:label="Change Password"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ChangeTpass"
+            android:label="Change T Password"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".SilverIncomeReport"
+            android:label="@string/title_activity_silver_income_report"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".PlatinumIncomeReport"
+            android:label="@string/title_activity_platinum_income_report"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".LevelIncome"
+            android:label="@string/title_activity_level_income"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".AccountStatement"
+            android:label="@string/title_activity_acount_statement"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".CurrentTicket"
+            android:label="@string/title_activity_current_ticket"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".RaiseTicket"
+            android:label="@string/title_activity_raise_ticket"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".MyDownline"
+            android:label="@string/title_activity_mydownline_total"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".PinReport"
+            android:label="@string/title_activity_pin_report"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".SilverMatchingSalesBonus"
+            android:label="@string/title_activity_silver_matching_sales_bonus"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".PlatinumMatchingSalesBonus"
+            android:label="@string/title_activity_platinum_matching_sales_bonus"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".UnusedPin"
+            android:label="@string/title_activity_used_pin"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".UsedPin"
+            android:label="@string/title_activity_unused_pin"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".CloseQuery"
+            android:label="@string/title_activity_close_query"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".EditProfile"
+            android:label="@string/title_activity_edit_profile"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".RechargeReportList"
+            android:label="@string/title_activity_recharge_report"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".RechargeReport"
+            android:label="@string/title_activity_recharge_report"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Recharge"
+            android:label="@string/title_activity_recharge_report"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Recharge1"
+            android:label="@string/title_activity_recharge_report"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Aboutus"
+            android:label="@string/title_activity_aboutus"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Registration"
+            android:label="@string/title_activity_registration"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".FundTransfer"
+            android:label="@string/title_activity_fund_transfer"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Home"
+            android:label="@string/title_activity_home"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Home1"
+            android:label="@string/title_activity_home"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Fund"
+            android:label="@string/title_activity_fund"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Fund1"
+            android:label="@string/title_activity_fund"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".RechargeHome"
+            android:label="@string/title_activity_recharge_home"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".RechargeHome1"
+            android:label="@string/title_activity_recharge_home"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".PinMenu"
+            android:label="@string/title_activity_pin_menu"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".PinMenu1"
+            android:label="@string/title_activity_pin_menu"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Personal"
+            android:label="@string/title_activity_personal"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Personal1"
+            android:label="@string/title_activity_personal"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".TicketMenu"
+            android:label="@string/title_activity_ticket_menu"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".TicketMenu1"
+            android:label="@string/title_activity_ticket_menu"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Report"
+            android:label="@string/title_activity_report"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Report1"
+            android:label="@string/title_activity_report"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Request"
+            android:label="@string/title_activity_request"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Request1"
+            android:label="@string/title_activity_request"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".EwalletTTwallet"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".PinPurchase"
+            android:label="@string/title_activity_pin_purchase"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".PinTransfer"
+            android:label="@string/title_activity_pin_transfer"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".EwalletFundRequest"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".EwalletReport"
+            android:label="@string/title_activity_ewallet_report"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".TopupwalletReport"
+            android:label="@string/title_activity_topupwallet_report"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".ForgotPassword"
+            android:label="@string/title_activity_forgot_password"
+            android:screenOrientation="landscape" >
+        </activity>
+    </application>
+
+</manifest>

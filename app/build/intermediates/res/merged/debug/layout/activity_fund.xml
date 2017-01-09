@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    tools:context=".Fund" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/main_linearlayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#2066CCFF"
+                android:orientation="vertical"
+                android:showDividers="end" >
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#7066CCFF"
+                    android:gravity="center"
+                    android:text="Balance"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="#66CCFF" />
+
+                <LinearLayout
+                    android:id="@+id/LinearLayout02"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="25dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp" >
+
+                    <Button
+                        android:id="@+id/btn_e_pocket_balance_1"
+                        style="@style/DashboardButton"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:drawableTop="@drawable/pocket_balance"
+                        android:text="E-Pocket" />
+
+                    <Button
+                        android:id="@+id/btn_topup_balance_1"
+                        style="@style/DashboardButton"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:drawableTop="@drawable/topup_balance"
+                        android:text="Topup Wallet" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="#2066CCFF"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#7066CCFF"
+                    android:gravity="center"
+                    android:text="Transfer"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="#66CCFF" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="25dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp" >
+
+                    <Button
+                        android:id="@+id/btn_ewallet_t_twallet_1"
+                        style="@style/DashboardButton"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:drawableTop="@drawable/ewallet_to_topup_wallet_fund_transfer"
+                        android:text="E-pocket\nto T-wallet" />
+
+                    <Button
+                        android:id="@+id/btn_ewallet_t_ewallet_1"
+                        style="@style/DashboardButton"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:drawableTop="@drawable/ewallet_to_ewallet_fund_transfer"
+                        android:text="E-pocket\nto E-pocket" />
+
+                    <Button
+                        android:id="@+id/btn_twallet_t_twallet_1"
+                        style="@style/DashboardButton"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:drawableTop="@drawable/topup_wallet_to_topup_wallet_transfer"
+                        android:text="T-wallet\n to T-wallet" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

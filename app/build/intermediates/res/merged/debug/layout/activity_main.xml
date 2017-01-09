@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/main_linearlayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/LinearLayout02"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="25dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp" >
+
+                <Button
+                    android:id="@+id/btn_recharge"
+                    style="@style/DashboardButton"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/prepaid"
+                    android:text="Prepaid" />
+
+                <Button
+                    android:id="@+id/btn_dash122"
+                    style="@style/DashboardButton"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/special_recharge"
+                    android:text="Spacial Recharge" />
+
+                <Button
+                    android:id="@+id/btn_dash131"
+                    style="@style/DashboardButton"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/recharge_history"
+                    android:text="Recharge History" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout03"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="25dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp" >
+
+                <Button
+                    android:id="@+id/btn_dash111"
+                    style="@style/DashboardButton"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/data_card"
+                    android:text="DataCard" />
+
+                <Button
+                    android:id="@+id/btn_dash112"
+                    style="@style/DashboardButton"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/dth"
+                    android:text="DTH" />
+
+                <Button
+                    android:id="@+id/btn_dash113"
+                    style="@style/DashboardButton"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/post_paid"
+                    android:text="Post Paid" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout01"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="25dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp" >
+
+                <Button
+                    android:id="@+id/btn_dash123"
+                    style="@style/DashboardButton"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/landline"
+                    android:text="Landline" />
+
+                <Button
+                    android:id="@+id/btn_dash132"
+                    style="@style/DashboardButton"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/fund_transfer"
+                    android:text="Fund Transfer" />
+
+                <Button
+                    android:id="@+id/btn_report"
+                    style="@style/DashboardButton"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/landline"
+                    android:text="Landline"
+                    android:visibility="invisible" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lnl1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="25dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp" >
+
+                <Button
+                    android:id="@+id/btn_dash1"
+                    style="@style/DashboardButton"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/editprofile"
+                    android:text="Edit Profile" />
+
+                <Button
+                    android:id="@+id/btn_dash2"
+                    style="@style/DashboardButton"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/changepass"
+                    android:text="Change Pass" />
+
+                <Button
+                    android:id="@+id/btn_dash3"
+                    style="@style/DashboardButton"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/changetpass"
+                    android:text="Change T Pass" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lnl2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp" >
+
+                <Button
+                    android:id="@+id/btn_dash4"
+                    style="@style/DashboardButton"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/usedpin"
+                    android:text="Used pin" />
+
+                <Button
+                    android:id="@+id/btn_dash5"
+                    style="@style/DashboardButton"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/pinreport"
+                    android:text="Pin report" />
+
+                <Button
+                    android:id="@+id/btn_dash6"
+                    style="@style/DashboardButton"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/unusedpin"
+                    android:text="Unused pin" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lnl3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp" >
+
+                <Button
+                    android:id="@+id/btn_dash7"
+                    style="@style/DashboardButton"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/mydownline"
+                    android:text="Downline" />
+
+                <Button
+                    android:id="@+id/btn_dash8"
+                    style="@style/DashboardButton"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/accountstatement"
+                    android:text="Account Statement" />
+
+                <Button
+                    android:id="@+id/btn_pin"
+                    style="@style/DashboardButton"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/settings"
+                    android:text="Downline"
+                    android:visibility="invisible" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lnl5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="25dp"
+                android:layout_marginTop="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp" >
+
+                <Button
+                    android:id="@+id/btn_dash11"
+                    style="@style/DashboardButton"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/raise_ticket"
+                    android:text="Ticket isuue" />
+
+                <Button
+                    android:id="@+id/btn_dash12"
+                    style="@style/DashboardButton"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/current_ticket"
+                    android:text="Current ticket" />
+
+                <Button
+                    android:id="@+id/btn_dash13"
+                    style="@style/DashboardButton"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/close_ticket"
+                    android:text="Close Ticket" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

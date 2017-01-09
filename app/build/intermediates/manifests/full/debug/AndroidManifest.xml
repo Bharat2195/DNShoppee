@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dnshoppee"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="13"
+        android:targetSdkVersion="23" />
+"
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppBaseTheme" >
+        <activity
+            android:name="com.dnshoppee.Login"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Light.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver android:name="com.dnshoppee.IncomingSms" >
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.dnshoppee.MainActivity"
+            android:label="@string/title_activity_main"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.ChangePass"
+            android:label="Change Password"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.ChangeTpass"
+            android:label="Change T Password"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.SilverIncomeReport"
+            android:label="@string/title_activity_silver_income_report"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.PlatinumIncomeReport"
+            android:label="@string/title_activity_platinum_income_report"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.LevelIncome"
+            android:label="@string/title_activity_level_income"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.AccountStatement"
+            android:label="@string/title_activity_acount_statement"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.CurrentTicket"
+            android:label="@string/title_activity_current_ticket"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.RaiseTicket"
+            android:label="@string/title_activity_raise_ticket"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.MyDownline"
+            android:label="@string/title_activity_mydownline_total"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.PinReport"
+            android:label="@string/title_activity_pin_report"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.SilverMatchingSalesBonus"
+            android:label="@string/title_activity_silver_matching_sales_bonus"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.PlatinumMatchingSalesBonus"
+            android:label="@string/title_activity_platinum_matching_sales_bonus"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.UnusedPin"
+            android:label="@string/title_activity_used_pin"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.UsedPin"
+            android:label="@string/title_activity_unused_pin"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.CloseQuery"
+            android:label="@string/title_activity_close_query"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.EditProfile"
+            android:label="@string/title_activity_edit_profile"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.RechargeReportList"
+            android:label="@string/title_activity_recharge_report"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.RechargeReport"
+            android:label="@string/title_activity_recharge_report"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.Recharge"
+            android:label="@string/title_activity_recharge_report"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.Recharge1"
+            android:label="@string/title_activity_recharge_report"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.Aboutus"
+            android:label="@string/title_activity_aboutus"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.Registration"
+            android:label="@string/title_activity_registration"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.FundTransfer"
+            android:label="@string/title_activity_fund_transfer"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.Home"
+            android:label="@string/title_activity_home"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.Home1"
+            android:label="@string/title_activity_home"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.Fund"
+            android:label="@string/title_activity_fund"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.Fund1"
+            android:label="@string/title_activity_fund"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.RechargeHome"
+            android:label="@string/title_activity_recharge_home"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.RechargeHome1"
+            android:label="@string/title_activity_recharge_home"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.PinMenu"
+            android:label="@string/title_activity_pin_menu"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.PinMenu1"
+            android:label="@string/title_activity_pin_menu"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.Personal"
+            android:label="@string/title_activity_personal"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.Personal1"
+            android:label="@string/title_activity_personal"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.TicketMenu"
+            android:label="@string/title_activity_ticket_menu"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.TicketMenu1"
+            android:label="@string/title_activity_ticket_menu"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.Report"
+            android:label="@string/title_activity_report"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.Report1"
+            android:label="@string/title_activity_report"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.Request"
+            android:label="@string/title_activity_request"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.Request1"
+            android:label="@string/title_activity_request"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.EwalletTTwallet"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.PinPurchase"
+            android:label="@string/title_activity_pin_purchase"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.PinTransfer"
+            android:label="@string/title_activity_pin_transfer"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.EwalletFundRequest"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.EwalletReport"
+            android:label="@string/title_activity_ewallet_report"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.TopupwalletReport"
+            android:label="@string/title_activity_topupwallet_report"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.dnshoppee.ForgotPassword"
+            android:label="@string/title_activity_forgot_password"
+            android:screenOrientation="landscape" >
+        </activity>
+    </application>
+
+</manifest>
